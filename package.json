@@ -1,6 +1,6 @@
 {
   "name": "unloop-auth-session",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Session configuration for unloop auth sessions",
   "main": "index.js",
   "scripts": {
